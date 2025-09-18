@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "veroxyle.shadcn-ui-snippets",
+        "suhelmakkad.shadcn-ui",
+        "biomejs.biome",
+        "streetsidesoftware.code-spell-checker",
+        "usernamehw.errorlens",
+        "bradlc.vscode-tailwindcss",
+        "stivo.tailwind-fold"
+    ]
+}
